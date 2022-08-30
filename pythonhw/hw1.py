@@ -28,11 +28,12 @@ def q4(mystringarray):
 
 def q5(myarray):
     """ return a dictionary containing the counts of items in the input array """
-    letter_list = [(letter, myarray.count(letter)) for letter in myarray]
     letter_dict = {}
-    for tuple in letter_list:
-        if tuple[0] in letter_dict:
-            continue
+    for letter in myarray:
+        if letter not in letter_dict:
+            letter_dict[letter] = 1
         else:
-            letter_dict[tuple[0]] = tuple[1] 
+            letter_dict[letter] += 1
     return letter_dict
+
+print(q5(['c','a','d','a','e','i']))
