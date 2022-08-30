@@ -35,5 +35,3 @@ def q5(myarray):
         else:
             letter_dict[letter] += 1
     return letter_dict
-
-print(q5(['c','a','d','a','e','i']))
