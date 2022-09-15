@@ -2,7 +2,7 @@ import hi
 
 def go():
     hi.print_a_line()
-    print("Hello")
+    print("Hello World")
     hi.print_a_line()
 
 
