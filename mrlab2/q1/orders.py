@@ -6,10 +6,10 @@ class CountryCost(MRJob):  #MRJob version
         if purchase[3] == "Quantity":
             pass
         else:
-            yield (purchase[-1], (float(purchase[3][0:]) * float(purchase[5][0:]))) # Yield length of word and 1 instead
+            yield (purchase[-1], (float(purchase[3][0:]) * float(purchase[5][0:]))) # Yield Country and quantity * price
 
     def reducer(self, key, values):
-        yield (key, round(sum(values), 2)) # No change
+        yield (key, round(sum(values), 2)) # Round output to 2 decimal places
 
 if __name__ == '__main__':
     CountryCost.run()   # MRJob version
