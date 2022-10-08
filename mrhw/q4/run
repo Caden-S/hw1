@@ -1,0 +1,3 @@
+hdfs dfs -rm -r wapwords
+
+python3 wordcount.py -r hadoop --hadoop-streaming-jar /home2/hadoop-3.3.2/share/hadoop/tools/lib/hadoop-streaming-3.3.2.jar --jobconf mapreduce.job.reduces=4 hdfs:///datasets/wap  --output-dir wapwords --no-output
