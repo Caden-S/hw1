@@ -1,0 +1,199 @@
+ITIN_ID,YEAR,QUARTER,ORIGIN,ORIGIN_STATE_NM,DEST,DEST_STATE_NM,PASSENGERS
+2022149,2022,1,CAE,South Carolina,MCO,Florida,1.00
+2022150,2022,1,CAE,South Carolina,MCO,Florida,1.00
+2022151,2022,1,MCO,Florida,CAE,South Carolina,1.00
+2022151,2022,1,CAE,South Carolina,MCO,Florida,1.00
+2022152,2022,1,CAE,South Carolina,MCO,Florida,1.00
+2022152,2022,1,MCO,Florida,CAE,South Carolina,1.00
+2022153,2022,1,MCO,Florida,FLL,Florida,1.00
+2022153,2022,1,CAE,South Carolina,MCO,Florida,1.00
+2022154,2022,1,CAE,South Carolina,TPA,Florida,1.00
+2022155,2022,1,CAE,South Carolina,TPA,Florida,1.00
+2022156,2022,1,CAE,South Carolina,TPA,Florida,1.00
+2022157,2022,1,CHS,South Carolina,FLL,Florida,1.00
+2022158,2022,1,CHS,South Carolina,FLL,Florida,2.00
+2022159,2022,1,CHS,South Carolina,FLL,Florida,8.00
+2022160,2022,1,CHS,South Carolina,FLL,Florida,1.00
+2022161,2022,1,CHS,South Carolina,FLL,Florida,10.00
+2022162,2022,1,CHS,South Carolina,FLL,Florida,3.00
+2022163,2022,1,CHS,South Carolina,FLL,Florida,1.00
+2022164,2022,1,CHS,South Carolina,FLL,Florida,1.00
+2022165,2022,1,CHS,South Carolina,FLL,Florida,1.00
+2022166,2022,1,CHS,South Carolina,FLL,Florida,4.00
+2022167,2022,1,CHS,South Carolina,FLL,Florida,3.00
+2022168,2022,1,CHS,South Carolina,FLL,Florida,4.00
+2022169,2022,1,CHS,South Carolina,FLL,Florida,1.00
+2022170,2022,1,CHS,South Carolina,FLL,Florida,1.00
+2022171,2022,1,CHS,South Carolina,FLL,Florida,1.00
+2022172,2022,1,CHS,South Carolina,FLL,Florida,2.00
+2022173,2022,1,CHS,South Carolina,FLL,Florida,2.00
+2022174,2022,1,CHS,South Carolina,FLL,Florida,2.00
+2022175,2022,1,CHS,South Carolina,FLL,Florida,2.00
+2022175,2022,1,FLL,Florida,CHS,South Carolina,2.00
+2022176,2022,1,FLL,Florida,CHS,South Carolina,2.00
+2022176,2022,1,CHS,South Carolina,FLL,Florida,2.00
+2022177,2022,1,FLL,Florida,CHS,South Carolina,1.00
+2022177,2022,1,CHS,South Carolina,FLL,Florida,1.00
+2022178,2022,1,CHS,South Carolina,FLL,Florida,1.00
+2022178,2022,1,FLL,Florida,CHS,South Carolina,1.00
+2022179,2022,1,CHS,South Carolina,FLL,Florida,1.00
+2022179,2022,1,FLL,Florida,CHS,South Carolina,1.00
+2022180,2022,1,MCO,Florida,CHS,South Carolina,1.00
+2022180,2022,1,FLL,Florida,MCO,Florida,1.00
+2022180,2022,1,CHS,South Carolina,FLL,Florida,1.00
+2022181,2022,1,MCO,Florida,CHS,South Carolina,1.00
+2022181,2022,1,FLL,Florida,MCO,Florida,1.00
+2022181,2022,1,CHS,South Carolina,FLL,Florida,1.00
+2022182,2022,1,CHS,South Carolina,MCO,Florida,1.00
+2022183,2022,1,CHS,South Carolina,MCO,Florida,5.00
+2022184,2022,1,CHS,South Carolina,MCO,Florida,1.00
+2022185,2022,1,CHS,South Carolina,MCO,Florida,2.00
+2022186,2022,1,CHS,South Carolina,MCO,Florida,6.00
+2022187,2022,1,CHS,South Carolina,MCO,Florida,5.00
+2022188,2022,1,CHS,South Carolina,MCO,Florida,2.00
+2022189,2022,1,CHS,South Carolina,MCO,Florida,1.00
+2022190,2022,1,CHS,South Carolina,MCO,Florida,1.00
+2022191,2022,1,CHS,South Carolina,MCO,Florida,1.00
+2022192,2022,1,CHS,South Carolina,MCO,Florida,1.00
+2022193,2022,1,CHS,South Carolina,MCO,Florida,1.00
+2022194,2022,1,CHS,South Carolina,MCO,Florida,1.00
+2022195,2022,1,CHS,South Carolina,MCO,Florida,2.00
+2022196,2022,1,CHS,South Carolina,MCO,Florida,1.00
+2022196,2022,1,MCO,Florida,CHS,South Carolina,1.00
+2022197,2022,1,CHS,South Carolina,MCO,Florida,2.00
+2022197,2022,1,MCO,Florida,CHS,South Carolina,2.00
+2022198,2022,1,MCO,Florida,CHS,South Carolina,5.00
+2022198,2022,1,CHS,South Carolina,MCO,Florida,5.00
+2022199,2022,1,MCO,Florida,CHS,South Carolina,1.00
+2022199,2022,1,CHS,South Carolina,MCO,Florida,1.00
+20221100,2022,1,MCO,Florida,CHS,South Carolina,1.00
+20221100,2022,1,CHS,South Carolina,MCO,Florida,1.00
+20221101,2022,1,CHS,South Carolina,MCO,Florida,1.00
+20221101,2022,1,MCO,Florida,CHS,South Carolina,1.00
+20221102,2022,1,MCO,Florida,CHS,South Carolina,1.00
+20221102,2022,1,CHS,South Carolina,MCO,Florida,1.00
+20221103,2022,1,MCO,Florida,CHS,South Carolina,2.00
+20221103,2022,1,CHS,South Carolina,MCO,Florida,2.00
+20221104,2022,1,CHS,South Carolina,MCO,Florida,1.00
+20221104,2022,1,MCO,Florida,CHS,South Carolina,1.00
+20221105,2022,1,CHS,South Carolina,MCO,Florida,1.00
+20221105,2022,1,MCO,Florida,CHS,South Carolina,1.00
+20221106,2022,1,CHS,South Carolina,MCO,Florida,2.00
+20221106,2022,1,MCO,Florida,EWR,New Jersey,2.00
+20221107,2022,1,CHS,South Carolina,MCO,Florida,1.00
+20221107,2022,1,MCO,Florida,FLL,Florida,1.00
+20221108,2022,1,CHS,South Carolina,MCO,Florida,1.00
+20221108,2022,1,MCO,Florida,FLL,Florida,1.00
+20221108,2022,1,FLL,Florida,CHS,South Carolina,1.00
+20221109,2022,1,CHS,South Carolina,TPA,Florida,1.00
+20221110,2022,1,CHS,South Carolina,TPA,Florida,1.00
+20221111,2022,1,CHS,South Carolina,TPA,Florida,1.00
+20221112,2022,1,CHS,South Carolina,TPA,Florida,10.00
+20221113,2022,1,CHS,South Carolina,TPA,Florida,3.00
+20221114,2022,1,CHS,South Carolina,TPA,Florida,3.00
+20221115,2022,1,CHS,South Carolina,TPA,Florida,1.00
+20221116,2022,1,TPA,Florida,CHS,South Carolina,1.00
+20221116,2022,1,CHS,South Carolina,TPA,Florida,1.00
+20221117,2022,1,TPA,Florida,CHS,South Carolina,3.00
+20221117,2022,1,CHS,South Carolina,TPA,Florida,3.00
+20221118,2022,1,CHS,South Carolina,TPA,Florida,1.00
+20221118,2022,1,TPA,Florida,CHS,South Carolina,1.00
+20221119,2022,1,TPA,Florida,CHS,South Carolina,1.00
+20221119,2022,1,CHS,South Carolina,TPA,Florida,1.00
+20221120,2022,1,CHS,South Carolina,TPA,Florida,1.00
+20221120,2022,1,TPA,Florida,CHS,South Carolina,1.00
+20221121,2022,1,CHS,South Carolina,TPA,Florida,1.00
+20221121,2022,1,TPA,Florida,CHS,South Carolina,1.00
+20221122,2022,1,TPA,Florida,CHS,South Carolina,1.00
+20221122,2022,1,CHS,South Carolina,TPA,Florida,1.00
+20221123,2022,1,TPA,Florida,CHS,South Carolina,1.00
+20221123,2022,1,CHS,South Carolina,TPA,Florida,1.00
+20221358,2022,1,EYW,Florida,FLL,Florida,1.00
+20221359,2022,1,EYW,Florida,FLL,Florida,6.00
+20221360,2022,1,EYW,Florida,FLL,Florida,11.00
+20221361,2022,1,EYW,Florida,FLL,Florida,1.00
+20221362,2022,1,EYW,Florida,FLL,Florida,1.00
+20221363,2022,1,EYW,Florida,FLL,Florida,3.00
+20221364,2022,1,EYW,Florida,FLL,Florida,5.00
+20221365,2022,1,EYW,Florida,FLL,Florida,1.00
+20221366,2022,1,EYW,Florida,FLL,Florida,1.00
+20221367,2022,1,EYW,Florida,FLL,Florida,1.00
+20221368,2022,1,EYW,Florida,FLL,Florida,4.00
+20221369,2022,1,EYW,Florida,FLL,Florida,3.00
+20221370,2022,1,EYW,Florida,FLL,Florida,1.00
+20221371,2022,1,EYW,Florida,FLL,Florida,5.00
+20221372,2022,1,EYW,Florida,FLL,Florida,6.00
+20221373,2022,1,EYW,Florida,FLL,Florida,2.00
+20221374,2022,1,EYW,Florida,FLL,Florida,6.00
+20221375,2022,1,EYW,Florida,FLL,Florida,1.00
+20221376,2022,1,EYW,Florida,FLL,Florida,1.00
+20221377,2022,1,EYW,Florida,FLL,Florida,2.00
+20221378,2022,1,EYW,Florida,FLL,Florida,9.00
+20221379,2022,1,EYW,Florida,FLL,Florida,8.00
+20221380,2022,1,EYW,Florida,FLL,Florida,1.00
+20221381,2022,1,EYW,Florida,FLL,Florida,2.00
+20221382,2022,1,EYW,Florida,FLL,Florida,1.00
+20221383,2022,1,EYW,Florida,FLL,Florida,5.00
+20221384,2022,1,EYW,Florida,FLL,Florida,1.00
+20221385,2022,1,EYW,Florida,FLL,Florida,1.00
+20221386,2022,1,EYW,Florida,FLL,Florida,2.00
+20221387,2022,1,EYW,Florida,FLL,Florida,1.00
+20221388,2022,1,FLL,Florida,ALB,New York,1.00
+20221388,2022,1,EYW,Florida,FLL,Florida,1.00
+20221389,2022,1,FLL,Florida,ATL,Georgia,1.00
+20221389,2022,1,EYW,Florida,FLL,Florida,1.00
+20221390,2022,1,EYW,Florida,FLL,Florida,1.00
+20221390,2022,1,FLL,Florida,ATL,Georgia,1.00
+20221391,2022,1,FLL,Florida,ATL,Georgia,1.00
+20221391,2022,1,EYW,Florida,FLL,Florida,1.00
+20221392,2022,1,FLL,Florida,BDL,Connecticut,1.00
+20221392,2022,1,EYW,Florida,FLL,Florida,1.00
+20221393,2022,1,EYW,Florida,FLL,Florida,1.00
+20221393,2022,1,FLL,Florida,BDL,Connecticut,1.00
+20221394,2022,1,EYW,Florida,FLL,Florida,1.00
+20221394,2022,1,FLL,Florida,BDL,Connecticut,1.00
+20221395,2022,1,FLL,Florida,BOS,Massachusetts,1.00
+20221395,2022,1,EYW,Florida,FLL,Florida,1.00
+20221396,2022,1,FLL,Florida,BOS,Massachusetts,1.00
+20221396,2022,1,EYW,Florida,FLL,Florida,1.00
+20221397,2022,1,FLL,Florida,BOS,Massachusetts,1.00
+20221397,2022,1,EYW,Florida,FLL,Florida,1.00
+20221398,2022,1,EYW,Florida,FLL,Florida,1.00
+20221398,2022,1,FLL,Florida,BOS,Massachusetts,1.00
+20221399,2022,1,EYW,Florida,FLL,Florida,1.00
+20221399,2022,1,FLL,Florida,BUF,New York,1.00
+20221400,2022,1,FLL,Florida,CLE,Ohio,1.00
+20221400,2022,1,EYW,Florida,FLL,Florida,1.00
+20221401,2022,1,FLL,Florida,CLE,Ohio,1.00
+20221401,2022,1,EYW,Florida,FLL,Florida,1.00
+20221402,2022,1,FLL,Florida,CLT,North Carolina,1.00
+20221402,2022,1,EYW,Florida,FLL,Florida,1.00
+20221403,2022,1,FLL,Florida,CLT,North Carolina,1.00
+20221403,2022,1,EYW,Florida,FLL,Florida,1.00
+20221403,2022,1,CLT,North Carolina,RIC,Virginia,1.00
+20221404,2022,1,FLL,Florida,DEN,Colorado,1.00
+20221404,2022,1,EYW,Florida,FLL,Florida,1.00
+20221405,2022,1,EYW,Florida,FLL,Florida,1.00
+20221405,2022,1,DEN,Colorado,BZN,Montana,1.00
+20221405,2022,1,FLL,Florida,DEN,Colorado,1.00
+20221406,2022,1,FLL,Florida,DTW,Michigan,1.00
+20221406,2022,1,EYW,Florida,FLL,Florida,1.00
+20221407,2022,1,FLL,Florida,DTW,Michigan,1.00
+20221407,2022,1,EYW,Florida,FLL,Florida,1.00
+20221408,2022,1,FLL,Florida,DTW,Michigan,1.00
+20221408,2022,1,EYW,Florida,FLL,Florida,1.00
+20221409,2022,1,FLL,Florida,EWR,New Jersey,1.00
+20221409,2022,1,EYW,Florida,FLL,Florida,1.00
+20221410,2022,1,FLL,Florida,EWR,New Jersey,1.00
+20221410,2022,1,EYW,Florida,FLL,Florida,1.00
+20221411,2022,1,FLL,Florida,EWR,New Jersey,1.00
+20221411,2022,1,EWR,New Jersey,GRR,Michigan,1.00
+20221411,2022,1,EYW,Florida,FLL,Florida,1.00
+20221412,2022,1,FLL,Florida,EYW,Florida,1.00
+20221412,2022,1,EYW,Florida,FLL,Florida,1.00
+20221413,2022,1,FLL,Florida,EYW,Florida,2.00
+20221413,2022,1,EYW,Florida,FLL,Florida,2.00
+20221414,2022,1,EYW,Florida,FLL,Florida,1.00
+20221414,2022,1,FLL,Florida,EYW,Florida,1.00
+20221415,2022,1,FLL,Florida,EYW,Florida,1.00
+20221415,2022,1,EYW,Florida,FLL,Florida,1.00
