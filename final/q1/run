@@ -1,0 +1,1 @@
+python3 fbcount.py -r hadoop --hadoop-streaming-jar /home2/hadoop-3.3.2/share/hadoop/tools/lib/hadoop-streaming-3.3.2.jar --jobconf mapreduce.job.reduces=4 hdfs:///datasets/facebook  --output-dir facebook --no-output
